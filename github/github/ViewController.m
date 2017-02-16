@@ -20,6 +20,7 @@
 }
 - (IBAction)ClickAction:(id)sender {
      NSLog(@"点击事件");
+    NSLog(@"再次使用我的GitHub");
 }
 
 - (void)didReceiveMemoryWarning {
